@@ -28,3 +28,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+<a href="https://app.patika.dev/karacatufan">Patika.dev adresim</a>
